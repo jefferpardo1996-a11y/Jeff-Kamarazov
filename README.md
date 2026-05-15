@@ -5,13 +5,11 @@ Economist passionate about Data Analytics, Business Intelligence, and Data Scien
 I enjoy transforming data into insights that help businesses make better decisions. Currently, I am building projects focused on SQL, Python, Power BI, and statistical analysis, with a strong interest in productive industry.
 
 ## 🚀 Skills
-- Python
-- SQL
-- Power BI
-- Excel
-- Data Visualization
-- Statistical Analysis
-- Econometrics
+
+![Excel](https://img.shields.io/badge/Excel-Base-green)
+![SQL](https://img.shields.io/badge/SQL-Query-orange)
+![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
 
 ## 📚 Currently Learning
 - Advanced Python for Data Analysis
